@@ -1,0 +1,14 @@
+streamlit
+fastapi 
+uvicorn 
+requests 
+pandas 
+geopandas 
+folium 
+openai 
+whisper 
+transformers 
+langchain 
+scikit-learn 
+matplotlib 
+plotly
