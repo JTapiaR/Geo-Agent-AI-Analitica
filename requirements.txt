@@ -13,3 +13,4 @@ langchain
 scikit-learn 
 matplotlib 
 plotly
+python-dotenv>=1.0.0
